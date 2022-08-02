@@ -1,0 +1,14 @@
+{
+  "name": "directferries",
+  "version": "1.0.0",
+  "description": "Direct ferries task assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome test_direct_ferries.js --skip-js-errors"
+  },
+  "author": "chopper_grip",
+  "license": "GNU GPL",
+  "dependencies": {
+    "testcafe": "^1.20.0"
+  }
+}
